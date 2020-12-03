@@ -1,6 +1,6 @@
 # World Happiness v. Education Rankings
 
-Team Members: <br>
+**Team Members:** <br>
 Max Browning <br>
 Erik Fritzsche
 
