@@ -1,5 +1,4 @@
-2019,2018,Institution Name,Country,Classification,,,,,Academic Reputation,,Employer Reputation,,Faculty Student,,Citations per Faculty,,International Faculty,,International Students,,Overall Score
-,,,,SIZE,FOCUS,RESEARCH INTENSITY,AGE,STATUS,SCORE,RANK,SCORE,RANK,SCORE,RANK,SCORE,RANK,SCORE,RANK,SCORE,RANK,
+2019,2018,Institution Name,Country,Classification Size,Focus,Research Intensity,Age,Status,Academic Reputation Score,Academic Reputation Rank,Employer Reputation Score,Employer Reputation Rank,Faculty Student Score,Faculty Student Rank,Citations per Faculty Score,Citations per Faculty Rank,International Faculty Score,International Faculty Rank,International Students Score,International Students Rank,Overall Score
 1,1,MASSACHUSETTS INSTITUTE OF TECHNOLOGY (MIT),United States,M,CO,VH,5,B,100,3,100,4,100,17,99.8,8,100,41,95.5,77,100
 2,2,STANFORD UNIVERSITY,United States,L,FC,VH,5,B,100,5,100,5,100,16,99,13,99.8,56,70.5,190,98.6
 3,3,HARVARD UNIVERSITY,United States,L,FC,VH,5,B,100,1,100,1,99.3,40,99.8,9,92.1,151,75.7,164,98.5
@@ -1021,7 +1020,3 @@ N/A,N/A,"UNIVERSITY OF CALIFORNIA, SAN FRANCISCO (UCSF)",United States,S,SP,VH,5
 N/A,N/A,"UNIVERSITY OF ECONOMICS, PRAGUE",Czech Republic,L,SP,VH,4,A,-,-,25.2,385,-,-,-,-,-,-,71.2,185,-
 N/A,N/A,WEIZMANN INSTITUTE OF SCIENCE,Israel,S,FO,VH,4,A,21.7,379,-,-,100,3,99.5,11,,-,,-,-
 N/A,N/A,WHU OTTO BEISHEIM SCHOOL OF MANAGEMENT - KOBLENZ,Germany,S,SP,VH,3,C,-,-,27.9,350,-,-,66.8,117,83,198,61.7,232,-
-Source: QS Intelligence Unit (www.topuniversities.com). With permission. Copyright 2004-2018 QS Quacquarelli Symonds Ltd. Contact: intelligenceunit@qs.com / Ph. +44 207 284 7200 / www.iu.qs.com,,,,,,,,,,,,,,,,,,,,,
-"You may not reconfigure the data or content in any way. If reproducing any part of the data, you must maintain the layout and content as displayed on this spreadsheet. ",,,,,,,,,,,,,,,,,,,,,
-"Under no circumstances should data be re-ordered or combined with other data for supplementary analyses in any context without prior written permission and full disclosure of the intentions of any further analysis. To obtain permission, contact Mr Ben Sowter (ben@qs.com) and copy the QS Press Office (qspressoffice@qs.com)",,,,,,,,,,,,,,,,,,,,,
-,,Find the rankings methodology on www.iu.qs.com,,,,,,,,,,,,,,,,,,,
