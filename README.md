@@ -4,9 +4,10 @@
 Max Browning <br>
 Erik Fritzsche
 
-Project Description:
+**Project Description:** <br>
+In this project, we pull information from the world happiness rankings and world university rankings to look for correlations between the two. It is important to note that the world happiness rankings do not use population education as a factor in their rankings. The primary purpose of this project is to practice ETL (extract, transform, load).
 
-Datasets: <br>
+**Datasets:** <br>
 [World Happiness Rankings](https://www.kaggle.com/unsdsn/world-happiness?select=2019.csv) <br>
 [World University Rankings](https://www.kaggle.com/divyansh22/qs-world-university-rankings?select=2019-QS-World-University-Rankings.csv)
 
