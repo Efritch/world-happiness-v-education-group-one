@@ -1,8 +1,8 @@
-# world-happiness-v-education-group-one
+# World Happiness v. Education Rankings
 
-Project Title:
-
-Team Members:
+Team Members: <br>
+Max Browning <br>
+Erik Fritzsche
 
 Project Description:
 
