@@ -2,7 +2,8 @@
 
 **Team Members:** <br>
 Max Browning <br>
-Erik Fritzsche
+Erik Fritzsche <br>
+Daniel Conrad
 
 **Project Description:** <br>
 In this project, we pull information from the world happiness rankings and world university rankings to look for correlations between the two. It is important to note that the world happiness rankings do not use population education as a factor in their rankings. The primary purpose of this project is to practice ETL (extract, transform, load).
