@@ -13,7 +13,7 @@ In this project, we pull information from the world happiness rankings and world
 [World University Rankings](https://www.kaggle.com/divyansh22/qs-world-university-rankings?select=2019-QS-World-University-Rankings.csv)
 
 
-# Findings:<br>
+# Findings <br>
 
 -----
 ETL Project for Butler Data Bootcamp
