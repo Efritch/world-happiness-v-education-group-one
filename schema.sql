@@ -5,7 +5,7 @@ CREATE TABLE world_happiness (
 	gdp_per_capita_score FLOAT,
 	social_support_score FLOAT,
 	healthy_life_expectancy_score FLOAT,
-	freedom_life_choices_score, FLOAT,
+	freedom_life_choices_score FLOAT,
 	generosity FLOAT,
 	perceived_corruption_score FLOAT);
 	
