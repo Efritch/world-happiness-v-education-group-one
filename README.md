@@ -14,8 +14,8 @@ In this project, we pull information from the world happiness rankings and world
 
 
 # Findings <br>
-Number of universities per country listed:
-Number of ranked universities per countrly listed in happiness data (sorted by happiness rank):
+Number of universities per country listed:<br>
+Number of ranked universities per countrly listed in happiness data (sorted by happiness rank):<br>
   
 -----
 ETL Project for Butler Data Bootcamp
