@@ -31,6 +31,14 @@ The above scatter plot shows the happiness rank of country vs. the number of uni
 
 It is worth noting that the Sustainable Development Solutions Network ranked happiness in 2019 on six categories, none of which directly referred to education. Had the happiness index included a measure on access to public education or average education level, then we would have expected a stronger correlation.
 
+**Universities with Greatest Positive Change in Rank:**
+
+![alt text](https://github.com/MaxBrowning/world-happiness-v-education-group-one/blob/main/Results/most_positive_change_in_rank.png)
+
+**Universities with Greatest Negative Change in Rank:**
+
+![alt text](https://github.com/MaxBrowning/world-happiness-v-education-group-one/blob/main/Results/most_negative_change_in_rank.png)
+
 
 ## Steps for Running:
 
