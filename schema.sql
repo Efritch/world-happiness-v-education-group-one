@@ -1,3 +1,4 @@
+-- Create table to hold the World Happiness data
 CREATE TABLE world_happiness (
 	overall_rank INT,
 	country VARCHAR,
@@ -9,6 +10,7 @@ CREATE TABLE world_happiness (
 	generosity FLOAT,
 	perceived_corruption_score FLOAT);
 	
+-- Create table to hold the University Rankings data
 CREATE TABLE university_rankings (
 	year_2019 INT,
 	year_2018 INT,
@@ -27,5 +29,5 @@ CREATE TABLE university_rankings (
 	intl_faculty_rank INT,
 	intl_students_score FLOAT,
 	intl_students_rank INT,
-	overall_score FLOAT);
+	overall_score VARCHAR);
 
