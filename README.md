@@ -23,6 +23,10 @@ Top Three:
 2. United Kingdom: 76
 3. Germany: 45
 
+**Happiness Rank vs. Ranked University Count:**
+
+![alt text](https://github.com/MaxBrowning/world-happiness-v-education-group-one/blob/main/Results/happiness_rank_vs_ranked_university_count.png)
+
 -----
 ETL Project for Butler Data Bootcamp
 
