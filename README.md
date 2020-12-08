@@ -27,7 +27,7 @@ Top Three:
 
 ![alt text](https://github.com/MaxBrowning/world-happiness-v-education-group-one/blob/main/Results/happiness_rank_vs_ranked_university_count.png)
 
-The above scatter plot shows the happiness rank of country vs. the number of universities it has ranked in the top 1000. The correlation between the two variables appears to be very weak at best; however, the correlation is generally negative. In general, it is preferable to have a lower happiness rank (thereby being a happier country) and a higher ranked university count; therefore, a negative correlation was expected.
+Figure 2 shows the happiness rank of country vs. the number of universities it has ranked in the top 1000. The correlation between the two variables appears to be very weak at best; however, the correlation is generally negative. In general, it is preferable to have a lower happiness rank (thereby being a happier country) and a higher ranked university count; therefore, a negative correlation was expected.
 
 It is worth noting that the Sustainable Development Solutions Network ranked happiness in 2019 on six categories, none of which directly referred to education. Had the happiness index included a measure on access to public education or average education level, then we would have expected a stronger correlation.
 
@@ -35,7 +35,7 @@ It is worth noting that the Sustainable Development Solutions Network ranked hap
 
 ![alt text](https://github.com/MaxBrowning/world-happiness-v-education-group-one/blob/main/Results/most_positive_change_in_rank.png)
 
-The top 3 three countries that had the greatest rank improvements between 2018 and 2019 are:
+The three countries that had the greatest rank improvements between 2018 and 2019 are:
 
 1. Austria                || Happiness Rank: 10
 2. United Arab Emirates   || Happiness Rank: 21
@@ -46,7 +46,11 @@ The top 3 three countries that had the greatest rank improvements between 2018 a
 
 ![alt text](https://github.com/MaxBrowning/world-happiness-v-education-group-one/blob/main/Results/most_negative_change_in_rank.png)
 
- 3 Three Countries & Happiness Rank:
+The three countries that had the great rank decrease between 2018 and 2019 are:
+
+1. Croatia || Happiness Rank: 75
+2. Kuwait || Happiness Rank: 51
+3. Iraq || Happiness Rank: 126
 
 ## Steps for Running:
 
