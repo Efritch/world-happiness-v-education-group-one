@@ -31,6 +31,15 @@ The above scatter plot shows the happiness rank of country vs. the number of uni
 
 It is worth noting that the Sustainable Development Solutions Network ranked happiness in 2019 on six categories, none of which directly referred to education. Had the happiness index included a measure on access to public education or average education level, then we would have expected a stronger correlation.
 
+
+## Steps for Running:
+
+1. Run the SQL Schema titled schema.sql - this will create your basic table setup.
+2. Using Jupyter Notebook, run the file titled pandas_etl.ipynb - this will load the data into our SQL database and give us something to work with.
+3. Run the SQL query file titled queries.sql - these queries can be run individually to find specific information from the dataset.
+
+
+
 -----
 ETL Project for Butler Data Bootcamp
 
