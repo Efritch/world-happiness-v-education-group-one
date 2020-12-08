@@ -27,6 +27,10 @@ Top Three:
 
 ![alt text](https://github.com/MaxBrowning/world-happiness-v-education-group-one/blob/main/Results/happiness_rank_vs_ranked_university_count.png)
 
+The above scatter plot shows the happiness rank of country vs. the number of universities it has ranked in the top 1000. The correlation between the two variables appears to be very weak at best; however, the correlation is generally negative. In general, it is preferable to have a lower happiness rank (thereby being a happier country) and a higher ranked university count; therefore, a negative correlation was expected.
+
+It is worth noting that the Sustainable Development Solutions Network ranked happiness in 2019 on six categories, none of which directly referred to education. Had the happiness index included a measure on access to public education or average education level, then we would have expected a stronger correlation.
+
 -----
 ETL Project for Butler Data Bootcamp
 
