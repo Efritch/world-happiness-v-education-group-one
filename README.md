@@ -35,10 +35,18 @@ It is worth noting that the Sustainable Development Solutions Network ranked hap
 
 ![alt text](https://github.com/MaxBrowning/world-happiness-v-education-group-one/blob/main/Results/most_positive_change_in_rank.png)
 
+The top 3 three countries that had the greatest rank improvements between 2018 and 2019 are:
+
+1. Austria                || Happiness Rank: 10
+2. United Arab Emirates   || Happiness Rank: 21
+3. South Korea            || Happiness Rank: 54
+
+
 **Universities with Greatest Negative Change in Rank:**
 
 ![alt text](https://github.com/MaxBrowning/world-happiness-v-education-group-one/blob/main/Results/most_negative_change_in_rank.png)
 
+ 3 Three Countries & Happiness Rank:
 
 ## Steps for Running:
 
