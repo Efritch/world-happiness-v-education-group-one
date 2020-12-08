@@ -13,13 +13,6 @@ In this project, we pull information from the world happiness rankings and world
 [World University Rankings](https://www.kaggle.com/divyansh22/qs-world-university-rankings?select=2019-QS-World-University-Rankings.csv)
 
 
-## Findings <br>
-
-Number of universities per country listed:<br>
-Number of ranked universities per countrly listed in happiness data (sorted by happiness rank):<br>
-University with greatest change from 2018 to 2019: <br>
-Change in rank for universities rated in both 2018 and 2019:
-
 -----
 ETL Project for Butler Data Bootcamp
 
