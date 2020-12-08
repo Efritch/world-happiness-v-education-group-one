@@ -24,3 +24,4 @@ INNER JOIN university_rankings
 ON world_happiness.country = university_rankings.country
 GROUP BY world_happiness.overall_rank, world_happiness.country
 ORDER BY "University Count" DESC;
+
